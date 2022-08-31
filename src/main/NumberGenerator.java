@@ -1,4 +1,9 @@
+package main;
+
+
 import java.util.*;
+
+import static config.LotteryConfig.*;
 
 
 public class NumberGenerator {
@@ -7,8 +12,8 @@ public class NumberGenerator {
         Random random = new Random();
         //used hashSet to avoid duplicate values
         Set<Integer> numbers = new HashSet<>();
-        while (numbers.size() < LotteryConfig.NUMBERS_TO_GENERATE) {
-            numbers.add(random.nextInt(LotteryConfig.MAX_VAL - LotteryConfig.MIN_VAL)+LotteryConfig.MIN_VAL);
+        while (numbers.size() <NUMBERS_TO_GENERATE) {
+            numbers.add(random.nextInt(MAX_VAL - MIN_VAL)+MIN_VAL);
         }
         return numbers;
     }

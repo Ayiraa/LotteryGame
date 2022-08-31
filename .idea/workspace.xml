@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c47e6a8a-50da-4d9b-a249-2c99482c3cbf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LotteryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/LotteryConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LotteryGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/LotteryGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LotteryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/LotteryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/NumberGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserInputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/UserInputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/LotteryGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/LotteryGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
